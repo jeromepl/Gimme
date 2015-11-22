@@ -1,5 +1,5 @@
 # GIMME
-Gimme: Awesome app from an even more awesome team, programmed in 36 hours at HackSherbrooke 2015
+Gimme: Awesome app from an even more awesome team, programmed in 28 hours at HackSherbrooke 2015
 Won 3rd place (ZAP sherbrooke prize)
 
 Created by a team of 5 (Myself (Jerome Parent-Levesque), Philippe Girard, Kevin Laframboise, Christian H-Cardinal, Catherine Vallieres (Graphics Designer))
