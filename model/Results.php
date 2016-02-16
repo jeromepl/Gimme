@@ -41,13 +41,7 @@ class Results {
 		include_once "medoo.min.php";
 		
 		// Initialize medoo
-		$database = new medoo ( [ 
-				'database_type' => 'mysql',
-				'database_name' => 'anecdote_gimme',
-				'server' => '108.167.140.108',
-				'username' => 'anecdote_je',
-				'password' => 'hackChamps' 
-		] );
+		include_once "medooConnection.php";
 		
 		// get the categories
 		$cats = $database->select ( "words", "category_id", [ 
